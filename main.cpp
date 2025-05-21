@@ -29,7 +29,7 @@ bool validateSeat(travelBooking t[], string sNo, int timeChoice){
 
     dTime = F_TIMES[timeChoice - 1][0];
     int i = 0;
-    // check if ti is already booked
+    // check if it is already booked
     while(i < NUM){
         if(t[i].seatNo == sNo && t[i].departureTime == dTime){
             notBooked = false;
