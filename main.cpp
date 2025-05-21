@@ -259,7 +259,7 @@ int main()
                  << "to choose a seat(e.g:A2)" << endl;
         }
         else{
-            // seat display after booking are made
+            // seat display after bookings are made
             displaySeats2(traveller, depTimeChoice);
 
             cout << "\n\nSeats that are already taken "
