@@ -1,7 +1,6 @@
 #include <iostream>
 #include <iomanip>  //for set()
 #include <string>
-
 using namespace std;
 
 const int NUM = 10;
