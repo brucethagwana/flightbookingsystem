@@ -3,6 +3,7 @@
 #include <string>
 using namespace std;
 
+
 const int NUM = 10;
 const float FLIGHT = 1600.00;
 const float F_TIMES[5][2] = {{7.00, 9.30}, {9.00, 11.30},
