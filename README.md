@@ -25,7 +25,7 @@ I focused on a structured approach for this project, carefully utilizing functio
 
 ### Data Structures
 
-- To fulfil the assignment's data management requirements, I used a **two-dimensional array** to store and manage departure and arrival times for the various flight options. Additionally, **One-dimensional arrays** were employed to track seat availability for each flight and to store details of individual bookings.
+- To fulfil the assignment's data management requirements, I used a **two-dimensional array** to store and manage departure and arrival times for the various flight options. Additionally, **one-dimensional arrays** were employed to track seat availability for each flight and to store details of individual bookings.
 
 ### Functions
 
