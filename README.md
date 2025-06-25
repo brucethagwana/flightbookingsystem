@@ -65,4 +65,4 @@ g++ main.cpp -o flight_booking
 
 This project was developed as part of a coursework assignment for UNISA.
 
-Copyright (c) 2025 Bruce R. Thagwana, UNISA
+Copyright © 2025 Bruce R. Thagwana, UNISA. All rights reserved.
