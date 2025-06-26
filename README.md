@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%235599ff?style=for-the-badge&logo=C%2B%2B&labelColor=%235599ff&color=%23004482)
+![Static Badge](https://img.shields.io/badge/Code%3A%3ABlocks-%2341AD48?style=for-the-badge&logo=Code%3A%3ABlocks&logoColor=%23464687&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Mingw-w64-%2341AD48?style=for-the-badge&logo=Mingw-w64&logoColor=%23000000&labelColor=%23FFFFFF)
+
+
 # Flight Booking System
 
 This **Flight Booking System** was developed to simulate the process of booking a flight from Johannesburg to Cape Town. Through this project, I was able to explore and implement core programming concepts as part of a guided assignment, focusing on user interactions, data management, and modular design.
