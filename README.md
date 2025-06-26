@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%235599ff?style=for-the-badge&logo=C%2B%2B&labelColor=%235599ff&color=%23004482)
-![Static Badge](https://img.shields.io/badge/Code%3A%3ABlocks-%2341AD48?style=for-the-badge&logo=Code%3A%3ABlocks&logoColor=%23464687&labelColor=%23FFFFFF&color=%23FFFF00)
+![Static Badge](https://img.shields.io/badge/Code%3A%3ABlocks-%2341AD48?style=for-the-badge&logo=Code%3A%3ABlocks&logoColor=%23464687&labelColor=%23FF0000&color=%23FFFF00)
 ![Static Badge](https://img.shields.io/badge/Mingw-w64-%2341AD48?style=for-the-badge&logo=Mingw-w64&logoColor=%23000000&labelColor=%23FFFFFF)
 
 
