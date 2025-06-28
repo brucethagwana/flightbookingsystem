@@ -18,7 +18,7 @@ My goal for this assignment was to create a console-based application that guide
 - **Dynamic Seating Arrangement:** Displays the seating layout for each flight, indicating already booked seats with "\*\*".
   - The plane has 50 seats, arranged six per row (three on each side of a walkway).
   - The first four rows are **First Class**, and the remaining rows are **Economy Class**.
-  - Economy class tickests are fixed at R1600.00, while First Class tickets are 20% more.
+  - Economy class tickets are fixed at R1600.00, while First Class tickets are 20% more.
 - **Input Validation:** Ensures that user selections for flight times (1-5) and seat numbers are valid and available. If an invalid or already booked seat is chosen, a helpful message is displayed, and the user can re-enter their selection.
 - **Booking Confirmation:** Upon successful seat selection, a detailed flight booking ticket is displayed, including the passenger's name, flight details, seat number, and ticket price.
 - **Multiple Bookings:** Users have the option to make additional bookings for various flight times, with case-insensitive input for continuing ('Y'/'N').
